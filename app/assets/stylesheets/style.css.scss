@@ -143,3 +143,27 @@ body {
     text-align: center;
   }
 }
+
+#daylight-box {
+
+  .box-am {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 0px;
+  }
+
+  .box-noon {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin: 0px;
+  }
+
+  .box-pm {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 0px;
+  }
+}
